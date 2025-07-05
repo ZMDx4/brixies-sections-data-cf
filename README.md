@@ -50,7 +50,7 @@ metadata/
 Each section is stored as a JSON file containing the complete BricksCode structure. Files can be accessed via GitHub Raw URLs:
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/brixies-sections-data/main/sections/headers/header-1.json
+https://raw.githubusercontent.com/ZMDx4/brixies-sections-data/main/sections/headers/header-1.json
 ```
 
 ## For Plugin Developers
