@@ -1,6 +1,6 @@
-# Brixies Sections Data
+# Brixies Sections Data (CF)
 
-This repository contains section data for the Brixies Exporter Figma plugin. The data is organized by category and can be accessed via GitHub Raw URLs.
+This repository contains section data for the Brixies Exporter Figma plugin for CoreFramework. The data is organized by category and can be accessed via GitHub Raw URLs.
 
 ## Structure
 
@@ -50,7 +50,7 @@ metadata/
 Each section is stored as a JSON file containing the complete BricksCode structure. Files can be accessed via GitHub Raw URLs:
 
 ```
-https://raw.githubusercontent.com/ZMDx4/brixies-sections-data/main/sections/headers/header-1.json
+https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-1.json
 ```
 
 ## For Plugin Developers
