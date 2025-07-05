@@ -1,0 +1,3198 @@
+{
+  "sections": {
+    "Banner Section": {
+      "Banner Section 1": {
+        "id": "banner-section-1",
+        "category": "Banner Section",
+        "defaultClass": "brixies-banner-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/banners/banner-section-1.json"
+      },
+      "Banner Section 2": {
+        "id": "banner-section-2",
+        "category": "Banner Section",
+        "defaultClass": "brixies-banner-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/banners/banner-section-2.json"
+      },
+      "Banner Section 3": {
+        "id": "banner-section-3",
+        "category": "Banner Section",
+        "defaultClass": "brixies-banner-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/banners/banner-section-3.json"
+      },
+      "Banner Section 4": {
+        "id": "banner-section-4",
+        "category": "Banner Section",
+        "defaultClass": "brixies-banner-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/banners/banner-section-4.json"
+      },
+      "Banner Section 5": {
+        "id": "banner-section-5",
+        "category": "Banner Section",
+        "defaultClass": "brixies-banner-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/banners/banner-section-5.json"
+      },
+      "Banner Section 6": {
+        "id": "banner-section-6",
+        "category": "Banner Section",
+        "defaultClass": "brixies-banner-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/banners/banner-section-6.json"
+      },
+      "Banner Section 7": {
+        "id": "banner-section-7",
+        "category": "Banner Section",
+        "defaultClass": "brixies-banner-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/banners/banner-section-7.json"
+      }
+    },
+    "Blog Sections": {
+      "Blog Section 1": {
+        "id": "blog-section-1",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-1.json"
+      },
+      "Blog Section 2": {
+        "id": "blog-section-2",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-2.json"
+      },
+      "Blog Section 3": {
+        "id": "blog-section-3",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-3.json"
+      },
+      "Blog Section 4": {
+        "id": "blog-section-4",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-4.json"
+      },
+      "Blog Section 5": {
+        "id": "blog-section-5",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-5.json"
+      },
+      "Blog Section 6": {
+        "id": "blog-section-6",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-6.json"
+      },
+      "Blog Section 7": {
+        "id": "blog-section-7",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-7.json"
+      },
+      "Blog Section 8": {
+        "id": "blog-section-8",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-8.json"
+      },
+      "Blog Section 9": {
+        "id": "blog-section-9",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-9.json"
+      },
+      "Blog Section 10": {
+        "id": "blog-section-10",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-10.json"
+      },
+      "Blog Section 11": {
+        "id": "blog-section-11",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-11.json"
+      },
+      "Blog Section 12": {
+        "id": "blog-section-12",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-12.json"
+      },
+      "Blog Section 13": {
+        "id": "blog-section-13",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-13.json"
+      },
+      "Blog Section 14": {
+        "id": "blog-section-14",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-14.json"
+      },
+      "Blog Section 15": {
+        "id": "blog-section-15",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-15.json"
+      },
+      "Blog Section 16": {
+        "id": "blog-section-16",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-16.json"
+      },
+      "Blog Section 17": {
+        "id": "blog-section-17",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-17.json"
+      },
+      "Blog Section 18": {
+        "id": "blog-section-18",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-18.json"
+      },
+      "Blog Section 19": {
+        "id": "blog-section-19",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-19.json"
+      },
+      "Blog Section 20": {
+        "id": "blog-section-20",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-20",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-20.json"
+      },
+      "Blog Section 21": {
+        "id": "blog-section-21",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-21",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-21.json"
+      },
+      "Blog Section 22": {
+        "id": "blog-section-22",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-22",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-22.json"
+      },
+      "Blog Section 23": {
+        "id": "blog-section-23",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-23",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-23.json"
+      },
+      "Blog Section 24": {
+        "id": "blog-section-24",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-24",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-24.json"
+      },
+      "Blog Section 25": {
+        "id": "blog-section-25",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-25",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-25.json"
+      },
+      "Blog Section 26": {
+        "id": "blog-section-26",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-26",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-26.json"
+      },
+      "Blog Section 27": {
+        "id": "blog-section-27",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-27",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-27.json"
+      },
+      "Blog Section 28": {
+        "id": "blog-section-28",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-28",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-28.json"
+      },
+      "Blog Section 29": {
+        "id": "blog-section-29",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-29",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-29.json"
+      },
+      "Blog Section 30": {
+        "id": "blog-section-30",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-30",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-30.json"
+      },
+      "Blog Section 31": {
+        "id": "blog-section-31",
+        "category": "Blog Sections",
+        "defaultClass": "brixies-blog-section-31",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/blogs/blog-section-31.json"
+      }
+    },
+    "Cart Page": {
+      "Cart Page 1": {
+        "id": "cart-page-1",
+        "category": "Cart Page",
+        "defaultClass": "brixies-cart-page-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/cart-pages/cart-page-1.json"
+      },
+      "Cart Page 2": {
+        "id": "cart-page-2",
+        "category": "Cart Page",
+        "defaultClass": "brixies-cart-page-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/cart-pages/cart-page-2.json"
+      },
+      "Cart Page 3": {
+        "id": "cart-page-3",
+        "category": "Cart Page",
+        "defaultClass": "brixies-cart-page-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/cart-pages/cart-page-3.json"
+      }
+    },
+    "Category Filters": {},
+    "Checkout Page": {
+      "Checkout Page 1": {
+        "id": "checkout-page-1",
+        "category": "Checkout Page",
+        "defaultClass": "brixies-checkout-page-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/checkout-pages/checkout-page-1.json"
+      },
+      "Checkout Page 2": {
+        "id": "checkout-page-2",
+        "category": "Checkout Page",
+        "defaultClass": "brixies-checkout-page-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/checkout-pages/checkout-page-2.json"
+      },
+      "Checkout Page 3": {
+        "id": "checkout-page-3",
+        "category": "Checkout Page",
+        "defaultClass": "brixies-checkout-page-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/checkout-pages/checkout-page-3.json"
+      }
+    },
+    "Coming Soon Page": {
+      "Coming Soon Page 1": {
+        "id": "coming-soon-page-1",
+        "category": "Coming Soon Page",
+        "defaultClass": "brixies-coming-soon-page-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/coming-soon/coming-soon-page-1.json"
+      },
+      "Coming Soon Page 2": {
+        "id": "coming-soon-page-2",
+        "category": "Coming Soon Page",
+        "defaultClass": "brixies-coming-soon-page-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/coming-soon/coming-soon-page-2.json"
+      },
+      "Coming Soon Page 3": {
+        "id": "coming-soon-page-3",
+        "category": "Coming Soon Page",
+        "defaultClass": "brixies-coming-soon-page-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/coming-soon/coming-soon-page-3.json"
+      },
+      "Coming Soon Page 4": {
+        "id": "coming-soon-page-4",
+        "category": "Coming Soon Page",
+        "defaultClass": "brixies-coming-soon-page-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/coming-soon/coming-soon-page-4.json"
+      },
+      "Coming Soon Page 5": {
+        "id": "coming-soon-page-5",
+        "category": "Coming Soon Page",
+        "defaultClass": "brixies-coming-soon-page-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/coming-soon/coming-soon-page-5.json"
+      }
+    },
+    "Contact Sections": {
+      "Contact Section 1": {
+        "id": "contact-section-1",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-1.json"
+      },
+      "Contact Section 2": {
+        "id": "contact-section-2",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-2.json"
+      },
+      "Contact Section 3": {
+        "id": "contact-section-3",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-3.json"
+      },
+      "Contact Section 4": {
+        "id": "contact-section-4",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-4.json"
+      },
+      "Contact Section 5": {
+        "id": "contact-section-5",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-5.json"
+      },
+      "Contact Section 6": {
+        "id": "contact-section-6",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-6.json"
+      },
+      "Contact Section 7": {
+        "id": "contact-section-7",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-7.json"
+      },
+      "Contact Section 8": {
+        "id": "contact-section-8",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-8.json"
+      },
+      "Contact Section 9": {
+        "id": "contact-section-9",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-9.json"
+      },
+      "Contact Section 10": {
+        "id": "contact-section-10",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-10.json"
+      },
+      "Contact Section 11": {
+        "id": "contact-section-11",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-11.json"
+      },
+      "Contact Section 12": {
+        "id": "contact-section-12",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-12.json"
+      },
+      "Contact Section 13": {
+        "id": "contact-section-13",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-13.json"
+      },
+      "Contact Section 14": {
+        "id": "contact-section-14",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-14.json"
+      },
+      "Contact Section 15": {
+        "id": "contact-section-15",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-15.json"
+      },
+      "Contact Section 16": {
+        "id": "contact-section-16",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-16.json"
+      },
+      "Contact Section 17": {
+        "id": "contact-section-17",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-17.json"
+      },
+      "Contact Section 18": {
+        "id": "contact-section-18",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-18.json"
+      },
+      "Contact Section 19": {
+        "id": "contact-section-19",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-19.json"
+      },
+      "Contact Section 20": {
+        "id": "contact-section-20",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-20",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-20.json"
+      },
+      "Contact Section 21": {
+        "id": "contact-section-21",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-21",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-21.json"
+      },
+      "Contact Section 22": {
+        "id": "contact-section-22",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-22",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-22.json"
+      },
+      "Contact Section 23": {
+        "id": "contact-section-23",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-23",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-23.json"
+      },
+      "Contact Section 24": {
+        "id": "contact-section-24",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-24",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-24.json"
+      },
+      "Contact Section 25": {
+        "id": "contact-section-25",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-25",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-25.json"
+      },
+      "Contact Section 26": {
+        "id": "contact-section-26",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-26",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-26.json"
+      },
+      "Contact Section 27": {
+        "id": "contact-section-27",
+        "category": "Contact Sections",
+        "defaultClass": "brixies-contact-section-27",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/contacts/contact-section-27.json"
+      }
+    },
+    "Content Sections": {
+      "Content Section 1": {
+        "id": "content-section-1",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-1.json"
+      },
+      "Content Section 2": {
+        "id": "content-section-2",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-2.json"
+      },
+      "Content Section 3": {
+        "id": "content-section-3",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-3.json"
+      },
+      "Content Section 4": {
+        "id": "content-section-4",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-4.json"
+      },
+      "Content Section 5": {
+        "id": "content-section-5",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-5.json"
+      },
+      "Content Section 6": {
+        "id": "content-section-6",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-6.json"
+      },
+      "Content Section 7": {
+        "id": "content-section-7",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-7.json"
+      },
+      "Content Section 8": {
+        "id": "content-section-8",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-8.json"
+      },
+      "Content Section 9": {
+        "id": "content-section-9",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-9.json"
+      },
+      "Content Section 10": {
+        "id": "content-section-10",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-10.json"
+      },
+      "Content Section 11": {
+        "id": "content-section-11",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-11.json"
+      },
+      "Content Section 12": {
+        "id": "content-section-12",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-12.json"
+      },
+      "Content Section 13": {
+        "id": "content-section-13",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-13.json"
+      },
+      "Content Section 14": {
+        "id": "content-section-14",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-14.json"
+      },
+      "Content Section 15": {
+        "id": "content-section-15",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-15.json"
+      },
+      "Content Section 16": {
+        "id": "content-section-16",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-16.json"
+      },
+      "Content Section 17": {
+        "id": "content-section-17",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-17.json"
+      },
+      "Content Section 18": {
+        "id": "content-section-18",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-18.json"
+      },
+      "Content Section 19": {
+        "id": "content-section-19",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-19.json"
+      },
+      "Content Section 20": {
+        "id": "content-section-20",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-20",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-20.json"
+      },
+      "Content Section 21": {
+        "id": "content-section-21",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-21",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-21.json"
+      },
+      "Content Section 22": {
+        "id": "content-section-22",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-22",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-22.json"
+      },
+      "Content Section 23": {
+        "id": "content-section-23",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-23",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-23.json"
+      },
+      "Content Section 24": {
+        "id": "content-section-24",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-24",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-24.json"
+      },
+      "Content Section 25": {
+        "id": "content-section-25",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-25",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-25.json"
+      },
+      "Content Section 26": {
+        "id": "content-section-26",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-26",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-26.json"
+      },
+      "Content Section 27": {
+        "id": "content-section-27",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-27",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-27.json"
+      },
+      "Content Section 28": {
+        "id": "content-section-28",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-28",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-28.json"
+      },
+      "Content Section 29": {
+        "id": "content-section-29",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-29",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-29.json"
+      },
+      "Content Section 30": {
+        "id": "content-section-30",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-30",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-30.json"
+      },
+      "Content Section 31": {
+        "id": "content-section-31",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-31",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-31.json"
+      },
+      "Content Section 32": {
+        "id": "content-section-32",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-32",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-32.json"
+      },
+      "Content Section 33": {
+        "id": "content-section-33",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-33",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-33.json"
+      },
+      "Content Section 34": {
+        "id": "content-section-34",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-34",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-34.json"
+      },
+      "Content Section 35": {
+        "id": "content-section-35",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-35",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-35.json"
+      },
+      "Content Section 36": {
+        "id": "content-section-36",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-36",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-36.json"
+      },
+      "Content Section 37": {
+        "id": "content-section-37",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-37",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-37.json"
+      },
+      "Content Section 38": {
+        "id": "content-section-38",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-38",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-38.json"
+      },
+      "Content Section 39": {
+        "id": "content-section-39",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-39",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-39.json"
+      },
+      "Content Section 40": {
+        "id": "content-section-40",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-40",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-40.json"
+      },
+      "Content Section 41": {
+        "id": "content-section-41",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-41",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-41.json"
+      },
+      "Content Section 42": {
+        "id": "content-section-42",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-42",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-42.json"
+      },
+      "Content Section 43": {
+        "id": "content-section-43",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-43",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-43.json"
+      },
+      "Content Section 44": {
+        "id": "content-section-44",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-44",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-44.json"
+      },
+      "Content Section 45": {
+        "id": "content-section-45",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-45",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-45.json"
+      },
+      "Content Section 46": {
+        "id": "content-section-46",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-46",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-46.json"
+      },
+      "Content Section 47": {
+        "id": "content-section-47",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-47",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-47.json"
+      },
+      "Content Section 48": {
+        "id": "content-section-48",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-48",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-48.json"
+      },
+      "Content Section 49": {
+        "id": "content-section-49",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-49",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-49.json"
+      },
+      "Content Section 50": {
+        "id": "content-section-50",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-50",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-50.json"
+      },
+      "Content Section 51": {
+        "id": "content-section-51",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-51",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-51.json"
+      },
+      "Content Section 52": {
+        "id": "content-section-52",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-52",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-52.json"
+      },
+      "Content Section 53": {
+        "id": "content-section-53",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-53",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-53.json"
+      },
+      "Content Section 54": {
+        "id": "content-section-54",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-54",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-54.json"
+      },
+      "Content Section 55": {
+        "id": "content-section-55",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-55",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-55.json"
+      },
+      "Content Section 56": {
+        "id": "content-section-56",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-56",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-56.json"
+      },
+      "Content Section 57": {
+        "id": "content-section-57",
+        "category": "Content Sections",
+        "defaultClass": "brixies-content-section-57",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/content/content-section-57.json"
+      }
+    },
+    "CTA Sections": {
+      "CTA Section 1": {
+        "id": "cta-section-1",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-1.json"
+      },
+      "CTA Section 2": {
+        "id": "cta-section-2",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-2.json"
+      },
+      "CTA Section 3": {
+        "id": "cta-section-3",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-3.json"
+      },
+      "CTA Section 4": {
+        "id": "cta-section-4",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-4.json"
+      },
+      "CTA Section 5": {
+        "id": "cta-section-5",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-5.json"
+      },
+      "CTA Section 6": {
+        "id": "cta-section-6",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-6.json"
+      },
+      "CTA Section 7": {
+        "id": "cta-section-7",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-7.json"
+      },
+      "CTA Section 8": {
+        "id": "cta-section-8",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-8.json"
+      },
+      "CTA Section 9": {
+        "id": "cta-section-9",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-9.json"
+      },
+      "CTA Section 10": {
+        "id": "cta-section-10",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-10.json"
+      },
+      "CTA Section 11": {
+        "id": "cta-section-11",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-11.json"
+      },
+      "CTA Section 12": {
+        "id": "cta-section-12",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-12.json"
+      },
+      "CTA Section 13": {
+        "id": "cta-section-13",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-13.json"
+      },
+      "CTA Section 14": {
+        "id": "cta-section-14",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-14.json"
+      },
+      "CTA Section 15": {
+        "id": "cta-section-15",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-15.json"
+      },
+      "CTA Section 16": {
+        "id": "cta-section-16",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-16.json"
+      },
+      "CTA Section 17": {
+        "id": "cta-section-17",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-17.json"
+      },
+      "CTA Section 18": {
+        "id": "cta-section-18",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-18.json"
+      },
+      "CTA Section 19": {
+        "id": "cta-section-19",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-19.json"
+      },
+      "CTA Section 20": {
+        "id": "cta-section-20",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-20",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-20.json"
+      },
+      "CTA Section 21": {
+        "id": "cta-section-21",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-21",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-21.json"
+      },
+      "CTA Section 22": {
+        "id": "cta-section-22",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-22",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-22.json"
+      },
+      "CTA Section 23": {
+        "id": "cta-section-23",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-23",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-23.json"
+      },
+      "CTA Section 24": {
+        "id": "cta-section-24",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-24",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-24.json"
+      },
+      "CTA Section 25": {
+        "id": "cta-section-25",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-25",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-25.json"
+      },
+      "CTA Section 26": {
+        "id": "cta-section-26",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-26",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-26.json"
+      },
+      "CTA Section 27": {
+        "id": "cta-section-27",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-27",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-27.json"
+      },
+      "CTA Section 28": {
+        "id": "cta-section-28",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-28",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-28.json"
+      },
+      "CTA Section 29": {
+        "id": "cta-section-29",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-29",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-29.json"
+      },
+      "CTA Section 30": {
+        "id": "cta-section-30",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-30",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-30.json"
+      },
+      "CTA Section 31": {
+        "id": "cta-section-31",
+        "category": "CTA Sections",
+        "defaultClass": "brixies-cta-section-31",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/ctas/cta-section-31.json"
+      }
+    },
+    "Dashboard Pages": {
+      "Dashboard page 1": {
+        "id": "dashboard-page-1",
+        "category": "Dashboard Pages",
+        "defaultClass": "brixies-dashboard-page-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/dashboard-pages/dashboard-page-1.json"
+      },
+      "Dashboard page 2": {
+        "id": "dashboard-page-2",
+        "category": "Dashboard Pages",
+        "defaultClass": "brixies-dashboard-page-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/dashboard-pages/dashboard-page-2.json"
+      },
+      "Dashboard page 3": {
+        "id": "dashboard-page-3",
+        "category": "Dashboard Pages",
+        "defaultClass": "brixies-dashboard-page-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/dashboard-pages/dashboard-page-3.json"
+      },
+      "Dashboard Address 1": {
+        "id": "dashboard-address-1",
+        "category": "Dashboard Pages",
+        "defaultClass": "brixies-dashboard-address-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/dashboard-pages/dashboard-address-1.json"
+      },
+      "Dashboard account 1": {
+        "id": "dashboard-account-1",
+        "category": "Dashboard Pages",
+        "defaultClass": "brixies-dashboard-account-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/dashboard-pages/dashboard-account-1.json"
+      },
+      "Dashboard Order 1": {
+        "id": "dashboard-order-1",
+        "category": "Dashboard Pages",
+        "defaultClass": "brixies-dashboard-order-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/dashboard-pages/dashboard-order-1.json"
+      },
+      "Dashboard Edit Address 1": {
+        "id": "dashboard-edit-address-1",
+        "category": "Dashboard Pages",
+        "defaultClass": "brixies-dashboard-edit-address-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/dashboard-pages/dashboard-edit-address-1.json"
+      }
+    },
+    "Error Pages": {
+      "Error Page 1": {
+        "id": "error-page-1",
+        "category": "Error Pages",
+        "defaultClass": "brixies-error-page-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/error-pages/error-page-1.json"
+      },
+      "Error Page 2": {
+        "id": "error-page-2",
+        "category": "Error Pages",
+        "defaultClass": "brixies-error-page-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/error-pages/error-page-2.json"
+      },
+      "Error Page 3": {
+        "id": "error-page-3",
+        "category": "Error Pages",
+        "defaultClass": "brixies-error-page-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/error-pages/error-page-3.json"
+      },
+      "Error Page 4": {
+        "id": "error-page-4",
+        "category": "Error Pages",
+        "defaultClass": "brixies-error-page-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/error-pages/error-page-4.json"
+      },
+      "Error Page 5": {
+        "id": "error-page-5",
+        "category": "Error Pages",
+        "defaultClass": "brixies-error-page-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/error-pages/error-page-5.json"
+      },
+      "Error Page 6": {
+        "id": "error-page-6",
+        "category": "Error Pages",
+        "defaultClass": "brixies-error-page-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/error-pages/error-page-6.json"
+      },
+      "Error Page 7": {
+        "id": "error-page-7",
+        "category": "Error Pages",
+        "defaultClass": "brixies-error-page-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/error-pages/error-page-7.json"
+      }
+    },
+    "Event Sections": {
+      "Event Section 1": {
+        "id": "event-section-1",
+        "category": "Event Sections",
+        "defaultClass": "brixies-event-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/events/event-section-1.json"
+      },
+      "Event Section 2": {
+        "id": "event-section-2",
+        "category": "Event Sections",
+        "defaultClass": "brixies-event-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/events/event-section-2.json"
+      },
+      "Event Section 3": {
+        "id": "event-section-3",
+        "category": "Event Sections",
+        "defaultClass": "brixies-event-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/events/event-section-3.json"
+      },
+      "Event Section 4": {
+        "id": "event-section-4",
+        "category": "Event Sections",
+        "defaultClass": "brixies-event-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/events/event-section-4.json"
+      },
+      "Event Section 5": {
+        "id": "event-section-5",
+        "category": "Event Sections",
+        "defaultClass": "brixies-event-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/events/event-section-5.json"
+      },
+      "Event Section 6": {
+        "id": "event-section-6",
+        "category": "Event Sections",
+        "defaultClass": "brixies-event-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/events/event-section-6.json"
+      },
+      "Event Section 7": {
+        "id": "event-section-7",
+        "category": "Event Sections",
+        "defaultClass": "brixies-event-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/events/event-section-7.json"
+      }
+    },
+    "FAQ Sections": {
+      "FAQ Section 1": {
+        "id": "faq-section-1",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-1.json"
+      },
+      "FAQ Section 2": {
+        "id": "faq-section-2",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-2.json"
+      },
+      "FAQ Section 3": {
+        "id": "faq-section-3",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-3.json"
+      },
+      "FAQ Section 4": {
+        "id": "faq-section-4",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-4.json"
+      },
+      "FAQ Section 5": {
+        "id": "faq-section-5",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-5.json"
+      },
+      "FAQ Section 6": {
+        "id": "faq-section-6",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-6.json"
+      },
+      "FAQ Section 7": {
+        "id": "faq-section-7",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-7.json"
+      },
+      "FAQ Section 8": {
+        "id": "faq-section-8",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-8.json"
+      },
+      "FAQ Section 9": {
+        "id": "faq-section-9",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-9.json"
+      },
+      "FAQ Section 10": {
+        "id": "faq-section-10",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-10.json"
+      },
+      "FAQ Section 11": {
+        "id": "faq-section-11",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-11.json"
+      },
+      "FAQ Section 12": {
+        "id": "faq-section-12",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-12.json"
+      },
+      "FAQ Section 13": {
+        "id": "faq-section-13",
+        "category": "FAQ Sections",
+        "defaultClass": "brixies-faq-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/faqs/faq-section-13.json"
+      }
+    },
+    "Feature Sections": {
+      "Feature Section 1": {
+        "id": "feature-section-1",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-1.json"
+      },
+      "Feature Section 2": {
+        "id": "feature-section-2",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-2.json"
+      },
+      "Feature Section 3": {
+        "id": "feature-section-3",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-3.json"
+      },
+      "Feature Section 4": {
+        "id": "feature-section-4",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-4.json"
+      },
+      "Feature Section 5": {
+        "id": "feature-section-5",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-5.json"
+      },
+      "Feature Section 6": {
+        "id": "feature-section-6",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-6.json"
+      },
+      "Feature Section 7": {
+        "id": "feature-section-7",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-7.json"
+      },
+      "Feature Section 8": {
+        "id": "feature-section-8",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-8.json"
+      },
+      "Feature Section 9": {
+        "id": "feature-section-9",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-9.json"
+      },
+      "Feature Section 10": {
+        "id": "feature-section-10",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-10.json"
+      },
+      "Feature Section 11": {
+        "id": "feature-section-11",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-11.json"
+      },
+      "Feature Section 12": {
+        "id": "feature-section-12",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-12.json"
+      },
+      "Feature Section 13": {
+        "id": "feature-section-13",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-13.json"
+      },
+      "Feature Section 14": {
+        "id": "feature-section-14",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-14.json"
+      },
+      "Feature Section 15": {
+        "id": "feature-section-15",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-15.json"
+      },
+      "Feature Section 16": {
+        "id": "feature-section-16",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-16.json"
+      },
+      "Feature Section 17": {
+        "id": "feature-section-17",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-17.json"
+      },
+      "Feature Section 18": {
+        "id": "feature-section-18",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-18.json"
+      },
+      "Feature Section 19": {
+        "id": "feature-section-19",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-19.json"
+      },
+      "Feature Section 20": {
+        "id": "feature-section-20",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-20",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-20.json"
+      },
+      "Feature Section 21": {
+        "id": "feature-section-21",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-21",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-21.json"
+      },
+      "Feature Section 22": {
+        "id": "feature-section-22",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-22",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-22.json"
+      },
+      "Feature Section 23": {
+        "id": "feature-section-23",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-23",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-23.json"
+      },
+      "Feature Section 24": {
+        "id": "feature-section-24",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-24",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-24.json"
+      },
+      "Feature Section 25": {
+        "id": "feature-section-25",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-25",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-25.json"
+      },
+      "Feature Section 26": {
+        "id": "feature-section-26",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-26",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-26.json"
+      },
+      "Feature Section 27": {
+        "id": "feature-section-27",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-27",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-27.json"
+      },
+      "Feature Section 28": {
+        "id": "feature-section-28",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-28",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-28.json"
+      },
+      "Feature Section 29": {
+        "id": "feature-section-29",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-29",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-29.json"
+      },
+      "Feature Section 30": {
+        "id": "feature-section-30",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-30",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-30.json"
+      },
+      "Feature Section 31": {
+        "id": "feature-section-31",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-31",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-31.json"
+      },
+      "Feature Section 32": {
+        "id": "feature-section-32",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-32",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-32.json"
+      },
+      "Feature Section 33": {
+        "id": "feature-section-33",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-33",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-33.json"
+      },
+      "Feature Section 34": {
+        "id": "feature-section-34",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-34",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-34.json"
+      },
+      "Feature Section 35": {
+        "id": "feature-section-35",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-35",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-35.json"
+      },
+      "Feature Section 36": {
+        "id": "feature-section-36",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-36",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-36.json"
+      },
+      "Feature Section 37": {
+        "id": "feature-section-37",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-37",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-37.json"
+      },
+      "Feature Section 38": {
+        "id": "feature-section-38",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-38",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-38.json"
+      },
+      "Feature Section 39": {
+        "id": "feature-section-39",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-39",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-39.json"
+      },
+      "Feature Section 40": {
+        "id": "feature-section-40",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-40",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-40.json"
+      },
+      "Feature Section 41": {
+        "id": "feature-section-41",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-41",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-41.json"
+      },
+      "Feature Section 42": {
+        "id": "feature-section-42",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-42",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-42.json"
+      },
+      "Feature Section 43": {
+        "id": "feature-section-43",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-43",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-43.json"
+      },
+      "Feature Section 44": {
+        "id": "feature-section-44",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-44",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-44.json"
+      },
+      "Feature Section 45": {
+        "id": "feature-section-45",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-45",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-45.json"
+      },
+      "Feature Section 46": {
+        "id": "feature-section-46",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-46",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-46.json"
+      },
+      "Feature Section 47": {
+        "id": "feature-section-47",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-47",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-47.json"
+      },
+      "Feature Section 48": {
+        "id": "feature-section-48",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-48",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-48.json"
+      },
+      "Feature Section 49": {
+        "id": "feature-section-49",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-49",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-49.json"
+      },
+      "Feature Section 50": {
+        "id": "feature-section-50",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-50",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-50.json"
+      },
+      "Feature Section 51": {
+        "id": "feature-section-51",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-51",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-51.json"
+      },
+      "Feature Section 52": {
+        "id": "feature-section-52",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-52",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-52.json"
+      },
+      "Feature Section 53": {
+        "id": "feature-section-53",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-53",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-53.json"
+      },
+      "Feature Section 54": {
+        "id": "feature-section-54",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-54",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-54.json"
+      },
+      "Feature Section 55": {
+        "id": "feature-section-55",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-55",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-55.json"
+      },
+      "Feature Section 56": {
+        "id": "feature-section-56",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-56",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-56.json"
+      },
+      "Feature Section 57": {
+        "id": "feature-section-57",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-57",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-57.json"
+      },
+      "Feature Section 58": {
+        "id": "feature-section-58",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-58",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-58.json"
+      },
+      "Feature Section 59": {
+        "id": "feature-section-59",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-59",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-59.json"
+      },
+      "Feature Section 60": {
+        "id": "feature-section-60",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-60",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-60.json"
+      },
+      "Feature Section 61": {
+        "id": "feature-section-61",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-61",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-61.json"
+      },
+      "Feature Section 62": {
+        "id": "feature-section-62",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-62",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-62.json"
+      },
+      "Feature Section 63": {
+        "id": "feature-section-63",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-63",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-63.json"
+      },
+      "Feature Section 64": {
+        "id": "feature-section-64",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-64",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-64.json"
+      },
+      "Feature Section 65": {
+        "id": "feature-section-65",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-65",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-65.json"
+      },
+      "Feature Section 66": {
+        "id": "feature-section-66",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-66",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-66.json"
+      },
+      "Feature Section 67": {
+        "id": "feature-section-67",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-67",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-67.json"
+      },
+      "Feature Section 68": {
+        "id": "feature-section-68",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-68",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-68.json"
+      },
+      "Feature Section 69": {
+        "id": "feature-section-69",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-69",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-69.json"
+      },
+      "Feature Section 70": {
+        "id": "feature-section-70",
+        "category": "Feature Sections",
+        "defaultClass": "brixies-feature-section-70",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/features/feature-section-70.json"
+      }
+    },
+    "Footer": {
+      "Footer 1": {
+        "id": "footer-1",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-1.json"
+      },
+      "Footer 2": {
+        "id": "footer-2",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-2.json"
+      },
+      "Footer 3": {
+        "id": "footer-3",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-3.json"
+      },
+      "Footer 4": {
+        "id": "footer-4",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-4.json"
+      },
+      "Footer 5": {
+        "id": "footer-5",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-5.json"
+      },
+      "Footer 6": {
+        "id": "footer-6",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-6.json"
+      },
+      "Footer 7": {
+        "id": "footer-7",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-7.json"
+      },
+      "Footer 8": {
+        "id": "footer-8",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-8.json"
+      },
+      "Footer 9": {
+        "id": "footer-9",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-9.json"
+      },
+      "Footer 10": {
+        "id": "footer-10",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-10.json"
+      },
+      "Footer 11": {
+        "id": "footer-11",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-11.json"
+      },
+      "Footer 12": {
+        "id": "footer-12",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-12.json"
+      },
+      "Footer 13": {
+        "id": "footer-13",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-13.json"
+      },
+      "Footer 14": {
+        "id": "footer-14",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-14.json"
+      },
+      "Footer 15": {
+        "id": "footer-15",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-15.json"
+      },
+      "Footer 16": {
+        "id": "footer-16",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-16.json"
+      },
+      "Footer 17": {
+        "id": "footer-17",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-17.json"
+      },
+      "Footer 18": {
+        "id": "footer-18",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-18.json"
+      },
+      "Footer 19": {
+        "id": "footer-19",
+        "category": "Footer",
+        "defaultClass": "brixies-footer-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/footers/footer-19.json"
+      }
+    },
+    "Gallery": {
+      "Gallery Section 1": {
+        "id": "gallery-section-1",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-1.json"
+      },
+      "Gallery Section 2": {
+        "id": "gallery-section-2",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-2.json"
+      },
+      "Gallery Section 3": {
+        "id": "gallery-section-3",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-3.json"
+      },
+      "Gallery Section 4": {
+        "id": "gallery-section-4",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-4.json"
+      },
+      "Gallery Section 5": {
+        "id": "gallery-section-5",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-5.json"
+      },
+      "Gallery Section 6": {
+        "id": "gallery-section-6",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-6.json"
+      },
+      "Gallery Section 7": {
+        "id": "gallery-section-7",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-7.json"
+      },
+      "Gallery Section 8": {
+        "id": "gallery-section-8",
+        "category": "Gallery",
+        "defaultClass": "brixies-gallery-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/galleries/gallery-section-8.json"
+      }
+    },
+    "Headers": {
+      "Header 1": {
+        "id": "header-1",
+        "category": "Headers",
+        "defaultClass": "brixies-header-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-1.json"
+      },
+      "Header 2": {
+        "id": "header-2",
+        "category": "Headers",
+        "defaultClass": "brixies-header-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-2.json"
+      },
+      "Header 3": {
+        "id": "header-3",
+        "category": "Headers",
+        "defaultClass": "brixies-header-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-3.json"
+      },
+      "Header 4": {
+        "id": "header-4",
+        "category": "Headers",
+        "defaultClass": "brixies-header-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-4.json"
+      },
+      "Header 5": {
+        "id": "header-5",
+        "category": "Headers",
+        "defaultClass": "brixies-header-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-5.json"
+      },
+      "Header 6": {
+        "id": "header-6",
+        "category": "Headers",
+        "defaultClass": "brixies-header-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-6.json"
+      },
+      "Header 7": {
+        "id": "header-7",
+        "category": "Headers",
+        "defaultClass": "brixies-header-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-7.json"
+      },
+      "Header 8": {
+        "id": "header-8",
+        "category": "Headers",
+        "defaultClass": "brixies-header-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-8.json"
+      },
+      "Header 9": {
+        "id": "header-9",
+        "category": "Headers",
+        "defaultClass": "brixies-header-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-9.json"
+      },
+      "Header 10": {
+        "id": "header-10",
+        "category": "Headers",
+        "defaultClass": "brixies-header-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-10.json"
+      },
+      "Header 11": {
+        "id": "header-11",
+        "category": "Headers",
+        "defaultClass": "brixies-header-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-11.json"
+      },
+      "Header 12": {
+        "id": "header-12",
+        "category": "Headers",
+        "defaultClass": "brixies-header-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-12.json"
+      },
+      "Header 13": {
+        "id": "header-13",
+        "category": "Headers",
+        "defaultClass": "brixies-header-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-13.json"
+      },
+      "Header 14": {
+        "id": "header-14",
+        "category": "Headers",
+        "defaultClass": "brixies-header-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/headers/header-14.json"
+      }
+    },
+    "Hero Sections": {
+      "Hero Section 1": {
+        "id": "hero-section-1",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-1.json"
+      },
+      "Hero Section 2": {
+        "id": "hero-section-2",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-2.json"
+      },
+      "Hero Section 3": {
+        "id": "hero-section-3",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-3.json"
+      },
+      "Hero Section 4": {
+        "id": "hero-section-4",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-4.json"
+      },
+      "Hero Section 5": {
+        "id": "hero-section-5",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-5.json"
+      },
+      "Hero Section 6": {
+        "id": "hero-section-6",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-6.json"
+      },
+      "Hero Section 7": {
+        "id": "hero-section-7",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-7.json"
+      },
+      "Hero Section 8": {
+        "id": "hero-section-8",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-8.json"
+      },
+      "Hero Section 9": {
+        "id": "hero-section-9",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-9.json"
+      },
+      "Hero Section 10": {
+        "id": "hero-section-10",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-10.json"
+      },
+      "Hero Section 11": {
+        "id": "hero-section-11",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-11.json"
+      },
+      "Hero Section 12": {
+        "id": "hero-section-12",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-12.json"
+      },
+      "Hero Section 13": {
+        "id": "hero-section-13",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-13.json"
+      },
+      "Hero Section 14": {
+        "id": "hero-section-14",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-14.json"
+      },
+      "Hero Section 15": {
+        "id": "hero-section-15",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-15.json"
+      },
+      "Hero Section 16": {
+        "id": "hero-section-16",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-16.json"
+      },
+      "Hero Section 17": {
+        "id": "hero-section-17",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-17.json"
+      },
+      "Hero Section 18": {
+        "id": "hero-section-18",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-18.json"
+      },
+      "Hero Section 19": {
+        "id": "hero-section-19",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-19.json"
+      },
+      "Hero Section 20": {
+        "id": "hero-section-20",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-20",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-20.json"
+      },
+      "Hero Section 21": {
+        "id": "hero-section-21",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-21",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-21.json"
+      },
+      "Hero Section 22": {
+        "id": "hero-section-22",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-22",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-22.json"
+      },
+      "Hero Section 23": {
+        "id": "hero-section-23",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-23",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-23.json"
+      },
+      "Hero Section 24": {
+        "id": "hero-section-24",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-24",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-24.json"
+      },
+      "Hero Section 25": {
+        "id": "hero-section-25",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-25",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-25.json"
+      },
+      "Hero Section 26": {
+        "id": "hero-section-26",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-26",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-26.json"
+      },
+      "Hero Section 27": {
+        "id": "hero-section-27",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-27",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-27.json"
+      },
+      "Hero Section 28": {
+        "id": "hero-section-28",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-28",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-28.json"
+      },
+      "Hero Section 29": {
+        "id": "hero-section-29",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-29",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-29.json"
+      },
+      "Hero Section 30": {
+        "id": "hero-section-30",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-30",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-30.json"
+      },
+      "Hero Section 31": {
+        "id": "hero-section-31",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-31",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-31.json"
+      },
+      "Hero Section 32": {
+        "id": "hero-section-32",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-32",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-32.json"
+      },
+      "Hero Section 33": {
+        "id": "hero-section-33",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-33",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-33.json"
+      },
+      "Hero Section 34": {
+        "id": "hero-section-34",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-34",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-34.json"
+      },
+      "Hero Section 35": {
+        "id": "hero-section-35",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-35",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-35.json"
+      },
+      "Hero Section 36": {
+        "id": "hero-section-36",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-36",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-36.json"
+      },
+      "Hero Section 37": {
+        "id": "hero-section-37",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-37",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-37.json"
+      },
+      "Hero Section 38": {
+        "id": "hero-section-38",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-38",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-38.json"
+      },
+      "Hero Section 39": {
+        "id": "hero-section-39",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-39",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-39.json"
+      },
+      "Hero Section 40": {
+        "id": "hero-section-40",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-40",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-40.json"
+      },
+      "Hero Section 41": {
+        "id": "hero-section-41",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-41",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-41.json"
+      },
+      "Hero Section 42": {
+        "id": "hero-section-42",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-42",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-42.json"
+      },
+      "Hero Section 43": {
+        "id": "hero-section-43",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-43",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-43.json"
+      },
+      "Hero Section 44": {
+        "id": "hero-section-44",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-44",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-44.json"
+      },
+      "Hero Section 45": {
+        "id": "hero-section-45",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-45",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-45.json"
+      },
+      "Hero Section 46": {
+        "id": "hero-section-46",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-46",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-46.json"
+      },
+      "Hero Section 47": {
+        "id": "hero-section-47",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-47",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-47.json"
+      },
+      "Hero Section 48": {
+        "id": "hero-section-48",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-48",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-48.json"
+      },
+      "Hero Section 49": {
+        "id": "hero-section-49",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-49",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-49.json"
+      },
+      "Hero Section 50": {
+        "id": "hero-section-50",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-50",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-50.json"
+      },
+      "Hero Section 51": {
+        "id": "hero-section-51",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-51",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-51.json"
+      },
+      "Hero Section 52": {
+        "id": "hero-section-52",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-52",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-52.json"
+      },
+      "Hero Section 53": {
+        "id": "hero-section-53",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-53",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-53.json"
+      },
+      "Hero Section 54": {
+        "id": "hero-section-54",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-54",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-54.json"
+      },
+      "Hero Section 55": {
+        "id": "hero-section-55",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-55",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-55.json"
+      },
+      "Hero Section 56": {
+        "id": "hero-section-56",
+        "category": "Hero Sections",
+        "defaultClass": "brixies-hero-section-56",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/heroes/hero-section-56.json"
+      }
+    },
+    "Link Page": {
+      "Link Page 1": {
+        "id": "link-page-1",
+        "category": "Link Page",
+        "defaultClass": "brixies-link-page-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/link-pages/link-page-1.json"
+      },
+      "Link Page 2": {
+        "id": "link-page-2",
+        "category": "Link Page",
+        "defaultClass": "brixies-link-page-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/link-pages/link-page-2.json"
+      },
+      "Link Page 3": {
+        "id": "link-page-3",
+        "category": "Link Page",
+        "defaultClass": "brixies-link-page-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/link-pages/link-page-3.json"
+      },
+      "Link Page 4": {
+        "id": "link-page-4",
+        "category": "Link Page",
+        "defaultClass": "brixies-link-page-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/link-pages/link-page-4.json"
+      },
+      "Link Page 5": {
+        "id": "link-page-5",
+        "category": "Link Page",
+        "defaultClass": "brixies-link-page-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/link-pages/link-page-5.json"
+      },
+      "Link Page 6": {
+        "id": "link-page-6",
+        "category": "Link Page",
+        "defaultClass": "brixies-link-page-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/link-pages/link-page-6.json"
+      }
+    },
+    "Login Pages": {
+      "Login Page 1": {
+        "id": "login-page-1",
+        "category": "Login Pages",
+        "defaultClass": "brixies-login-page-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/login-pages/login-page-1.json"
+      },
+      "Login Page 2": {
+        "id": "login-page-2",
+        "category": "Login Pages",
+        "defaultClass": "brixies-login-page-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/login-pages/login-page-2.json"
+      },
+      "Login Page 3": {
+        "id": "login-page-3",
+        "category": "Login Pages",
+        "defaultClass": "brixies-login-page-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/login-pages/login-page-3.json"
+      },
+      "Login Page 4": {
+        "id": "login-page-4",
+        "category": "Login Pages",
+        "defaultClass": "brixies-login-page-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/login-pages/login-page-4.json"
+      },
+      "Login Page 5": {
+        "id": "login-page-5",
+        "category": "Login Pages",
+        "defaultClass": "brixies-login-page-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/login-pages/login-page-5.json"
+      },
+      "Login Page 6": {
+        "id": "login-page-6",
+        "category": "Login Pages",
+        "defaultClass": "brixies-login-page-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/login-pages/login-page-6.json"
+      },
+      "Login Page 7": {
+        "id": "login-page-7",
+        "category": "Login Pages",
+        "defaultClass": "brixies-login-page-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/login-pages/login-page-7.json"
+      }
+    },
+    "Logo Sections": {
+      "Logo Section 1": {
+        "id": "logo-section-1",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-1.json"
+      },
+      "Logo Section 2": {
+        "id": "logo-section-2",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-2.json"
+      },
+      "Logo Section 3": {
+        "id": "logo-section-3",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-3.json"
+      },
+      "Logo Section 4": {
+        "id": "logo-section-4",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-4.json"
+      },
+      "Logo Section 5": {
+        "id": "logo-section-5",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-5.json"
+      },
+      "Logo Section 6": {
+        "id": "logo-section-6",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-6.json"
+      },
+      "Logo Section 7": {
+        "id": "logo-section-7",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-7.json"
+      },
+      "Logo Section 8": {
+        "id": "logo-section-8",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-8.json"
+      },
+      "Logo Section 9": {
+        "id": "logo-section-9",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-9.json"
+      },
+      "Logo Section 10": {
+        "id": "logo-section-10",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-10.json"
+      },
+      "Logo Section 11": {
+        "id": "logo-section-11",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-11.json"
+      },
+      "Logo Section 12": {
+        "id": "logo-section-12",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-12.json"
+      },
+      "Logo Section 13": {
+        "id": "logo-section-13",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-13.json"
+      },
+      "Logo Section 14": {
+        "id": "logo-section-14",
+        "category": "Logo Sections",
+        "defaultClass": "brixies-logo-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/logos/logo-section-14.json"
+      }
+    },
+    "Megamenu Sections": {
+      "Megamenu Section 1": {
+        "id": "megamenu-section-1",
+        "category": "Megamenu Sections",
+        "defaultClass": "brixies-megamenu-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/megamenus/megamenu-section-1.json"
+      },
+      "Megamenu Section 2": {
+        "id": "megamenu-section-2",
+        "category": "Megamenu Sections",
+        "defaultClass": "brixies-megamenu-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/megamenus/megamenu-section-2.json"
+      },
+      "Megamenu Section 3": {
+        "id": "megamenu-section-3",
+        "category": "Megamenu Sections",
+        "defaultClass": "brixies-megamenu-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/megamenus/megamenu-section-3.json"
+      },
+      "Megamenu Section 4": {
+        "id": "megamenu-section-4",
+        "category": "Megamenu Sections",
+        "defaultClass": "brixies-megamenu-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/megamenus/megamenu-section-4.json"
+      },
+      "Megamenu Section 5": {
+        "id": "megamenu-section-5",
+        "category": "Megamenu Sections",
+        "defaultClass": "brixies-megamenu-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/megamenus/megamenu-section-5.json"
+      },
+      "Megamenu Section 6": {
+        "id": "megamenu-section-6",
+        "category": "Megamenu Sections",
+        "defaultClass": "brixies-megamenu-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/megamenus/megamenu-section-6.json"
+      }
+    },
+    "Offcanvas": {
+      "Offcanvas 1": {
+        "id": "offcanvas-1",
+        "category": "Offcanvas",
+        "defaultClass": "brixies-offcanvas-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/offcanvas/offcanvas-1.json"
+      },
+      "Offcanvas 2": {
+        "id": "offcanvas-2",
+        "category": "Offcanvas",
+        "defaultClass": "brixies-offcanvas-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/offcanvas/offcanvas-2.json"
+      },
+      "Offcanvas 3": {
+        "id": "offcanvas-3",
+        "category": "Offcanvas",
+        "defaultClass": "brixies-offcanvas-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/offcanvas/offcanvas-3.json"
+      },
+      "Offcanvas 4": {
+        "id": "offcanvas-4",
+        "category": "Offcanvas",
+        "defaultClass": "brixies-offcanvas-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/offcanvas/offcanvas-4.json"
+      },
+      "Offcanvas 5": {
+        "id": "offcanvas-5",
+        "category": "Offcanvas",
+        "defaultClass": "brixies-offcanvas-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/offcanvas/offcanvas-5.json"
+      },
+      "Offcanvas 6": {
+        "id": "offcanvas-6",
+        "category": "Offcanvas",
+        "defaultClass": "brixies-offcanvas-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/offcanvas/offcanvas-6.json"
+      },
+      "Offcanvas 7": {
+        "id": "offcanvas-7",
+        "category": "Offcanvas",
+        "defaultClass": "brixies-offcanvas-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/offcanvas/offcanvas-7.json"
+      }
+    },
+    "Popup Sections": {
+      "Popup Section 1": {
+        "id": "popup-section-1",
+        "category": "Popup Sections",
+        "defaultClass": "brixies-popup-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/popups/popup-section-1.json"
+      },
+      "Popup Section 2": {
+        "id": "popup-section-2",
+        "category": "Popup Sections",
+        "defaultClass": "brixies-popup-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/popups/popup-section-2.json"
+      },
+      "Popup Section 3": {
+        "id": "popup-section-3",
+        "category": "Popup Sections",
+        "defaultClass": "brixies-popup-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/popups/popup-section-3.json"
+      },
+      "Popup Section 4": {
+        "id": "popup-section-4",
+        "category": "Popup Sections",
+        "defaultClass": "brixies-popup-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/popups/popup-section-4.json"
+      }
+    },
+    "Portfolio Sections": {
+      "Portfolio Section 1": {
+        "id": "portfolio-section-1",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-1.json"
+      },
+      "Portfolio Section 2": {
+        "id": "portfolio-section-2",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-2.json"
+      },
+      "Portfolio Section 3": {
+        "id": "portfolio-section-3",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-3.json"
+      },
+      "Portfolio Section 4": {
+        "id": "portfolio-section-4",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-4.json"
+      },
+      "Portfolio Section 5": {
+        "id": "portfolio-section-5",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-5.json"
+      },
+      "Portfolio Section 6": {
+        "id": "portfolio-section-6",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-6.json"
+      },
+      "Portfolio Section 7": {
+        "id": "portfolio-section-7",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-7.json"
+      },
+      "Portfolio Section 8": {
+        "id": "portfolio-section-8",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-8.json"
+      },
+      "Portfolio Section 9": {
+        "id": "portfolio-section-9",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-9.json"
+      },
+      "Portfolio Section 10": {
+        "id": "portfolio-section-10",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-10.json"
+      },
+      "Portfolio Section 11": {
+        "id": "portfolio-section-11",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-11.json"
+      },
+      "Portfolio Section 12": {
+        "id": "portfolio-section-12",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-12.json"
+      },
+      "Portfolio Section 13": {
+        "id": "portfolio-section-13",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-13.json"
+      },
+      "Portfolio Section 14": {
+        "id": "portfolio-section-14",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-14.json"
+      },
+      "Portfolio Section 15": {
+        "id": "portfolio-section-15",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-15.json"
+      },
+      "Portfolio Section 16": {
+        "id": "portfolio-section-16",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-16.json"
+      },
+      "Portfolio Section 17": {
+        "id": "portfolio-section-17",
+        "category": "Portfolio Sections",
+        "defaultClass": "brixies-portfolio-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/portfolios/portfolio-section-17.json"
+      }
+    },
+    "Pricing Sections": {
+      "Pricing Section 1": {
+        "id": "pricing-section-1",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-1.json"
+      },
+      "Pricing Section 2": {
+        "id": "pricing-section-2",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-2.json"
+      },
+      "Pricing Section 3": {
+        "id": "pricing-section-3",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-3.json"
+      },
+      "Pricing Section 4": {
+        "id": "pricing-section-4",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-4.json"
+      },
+      "Pricing Section 5": {
+        "id": "pricing-section-5",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-5.json"
+      },
+      "Pricing Section 6": {
+        "id": "pricing-section-6",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-6.json"
+      },
+      "Pricing Section 7": {
+        "id": "pricing-section-7",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-7.json"
+      },
+      "Pricing Section 8": {
+        "id": "pricing-section-8",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-8.json"
+      },
+      "Pricing Section 9": {
+        "id": "pricing-section-9",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-9.json"
+      },
+      "Pricing Section 10": {
+        "id": "pricing-section-10",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-10.json"
+      },
+      "Pricing Section 11": {
+        "id": "pricing-section-11",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-11.json"
+      },
+      "Pricing Section 12": {
+        "id": "pricing-section-12",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-12.json"
+      },
+      "Pricing Section 13": {
+        "id": "pricing-section-13",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-13.json"
+      },
+      "Pricing Section 14": {
+        "id": "pricing-section-14",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-14.json"
+      },
+      "Pricing Section 15": {
+        "id": "pricing-section-15",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-15.json"
+      },
+      "Pricing Section 16": {
+        "id": "pricing-section-16",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-16.json"
+      },
+      "Pricing Section 17": {
+        "id": "pricing-section-17",
+        "category": "Pricing Sections",
+        "defaultClass": "brixies-pricing-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/pricing/pricing-section-17.json"
+      }
+    },
+    "Products Sections": {
+      "Product Section 1": {
+        "id": "product-section-1",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-1.json"
+      },
+      "Product Section 2": {
+        "id": "product-section-2",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-2.json"
+      },
+      "Product Section 3": {
+        "id": "product-section-3",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-3.json"
+      },
+      "Product Section 4": {
+        "id": "product-section-4",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-4.json"
+      },
+      "Product Section 5": {
+        "id": "product-section-5",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-5.json"
+      },
+      "Product Section 6": {
+        "id": "product-section-6",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-6.json"
+      },
+      "Product Section 7": {
+        "id": "product-section-7",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-7.json"
+      },
+      "Product Section 8": {
+        "id": "product-section-8",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-8.json"
+      },
+      "Product Section 9": {
+        "id": "product-section-9",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-9.json"
+      },
+      "Product Section 10": {
+        "id": "product-section-10",
+        "category": "Products Sections",
+        "defaultClass": "brixies-product-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/products/product-section-10.json"
+      }
+    },
+    "Single Portfolio Sections": {
+      "Single Portfolio Section 1": {
+        "id": "single-portfolio-section-1",
+        "category": "Single Portfolio Sections",
+        "defaultClass": "brixies-single-portfolio-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-portfolios/single-portfolio-section-1.json"
+      },
+      "Single Portfolio Section 2": {
+        "id": "single-portfolio-section-2",
+        "category": "Single Portfolio Sections",
+        "defaultClass": "brixies-single-portfolio-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-portfolios/single-portfolio-section-2.json"
+      },
+      "Single Portfolio Section 3": {
+        "id": "single-portfolio-section-3",
+        "category": "Single Portfolio Sections",
+        "defaultClass": "brixies-single-portfolio-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-portfolios/single-portfolio-section-3.json"
+      },
+      "Single Portfolio Section 4": {
+        "id": "single-portfolio-section-4",
+        "category": "Single Portfolio Sections",
+        "defaultClass": "brixies-single-portfolio-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-portfolios/single-portfolio-section-4.json"
+      },
+      "Single Portfolio Section 5": {
+        "id": "single-portfolio-section-5",
+        "category": "Single Portfolio Sections",
+        "defaultClass": "brixies-single-portfolio-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-portfolios/single-portfolio-section-5.json"
+      },
+      "Single Portfolio Section 6": {
+        "id": "single-portfolio-section-6",
+        "category": "Single Portfolio Sections",
+        "defaultClass": "brixies-single-portfolio-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-portfolios/single-portfolio-section-6.json"
+      }
+    },
+    "Single Post Hero": {
+      "Single Post Hero 1": {
+        "id": "single-post-hero-1",
+        "category": "Single Post Hero",
+        "defaultClass": "brixies-single-post-hero-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-hero-1.json"
+      },
+      "Single Post Hero 2": {
+        "id": "single-post-hero-2",
+        "category": "Single Post Hero",
+        "defaultClass": "brixies-single-post-hero-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-hero-2.json"
+      },
+      "Single Post Hero 3": {
+        "id": "single-post-hero-3",
+        "category": "Single Post Hero",
+        "defaultClass": "brixies-single-post-hero-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-hero-3.json"
+      },
+      "Single Post Hero 4": {
+        "id": "single-post-hero-4",
+        "category": "Single Post Hero",
+        "defaultClass": "brixies-single-post-hero-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-hero-4.json"
+      },
+      "Single Post Hero 5": {
+        "id": "single-post-hero-5",
+        "category": "Single Post Hero",
+        "defaultClass": "brixies-single-post-hero-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-hero-5.json"
+      }
+    },
+    "Single Post Section": {
+      "Single Post Section 1": {
+        "id": "single-post-section-1",
+        "category": "Single Post Section",
+        "defaultClass": "brixies-single-post-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-section-1.json"
+      },
+      "Single Post Section 2": {
+        "id": "single-post-section-2",
+        "category": "Single Post Section",
+        "defaultClass": "brixies-single-post-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-section-2.json"
+      },
+      "Single Post Section 3": {
+        "id": "single-post-section-3",
+        "category": "Single Post Section",
+        "defaultClass": "brixies-single-post-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-section-3.json"
+      },
+      "Single Post Section 4": {
+        "id": "single-post-section-4",
+        "category": "Single Post Section",
+        "defaultClass": "brixies-single-post-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-section-4.json"
+      },
+      "Single Post Section 5": {
+        "id": "single-post-section-5",
+        "category": "Single Post Section",
+        "defaultClass": "brixies-single-post-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-section-5.json"
+      },
+      "Single Post Section 6": {
+        "id": "single-post-section-6",
+        "category": "Single Post Section",
+        "defaultClass": "brixies-single-post-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-posts/single-post-section-6.json"
+      }
+    },
+    "Single Product Sections": {
+      "Single Product Section 1": {
+        "id": "single-product-section-1",
+        "category": "Single Product Sections",
+        "defaultClass": "brixies-single-product-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-products/single-product-section-1.json"
+      },
+      "Single Product Section 2": {
+        "id": "single-product-section-2",
+        "category": "Single Product Sections",
+        "defaultClass": "brixies-single-product-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-products/single-product-section-2.json"
+      },
+      "Single Product Section 3": {
+        "id": "single-product-section-3",
+        "category": "Single Product Sections",
+        "defaultClass": "brixies-single-product-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-products/single-product-section-3.json"
+      },
+      "Single Product Section 4": {
+        "id": "single-product-section-4",
+        "category": "Single Product Sections",
+        "defaultClass": "brixies-single-product-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/single-products/single-product-section-4.json"
+      }
+    },
+    "Team Sections": {
+      "Testimonial Section 1": {
+        "id": "testimonial-section-1",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-1.json"
+      },
+      "Testimonial Section 2": {
+        "id": "testimonial-section-2",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-2.json"
+      },
+      "Testimonial Section 3": {
+        "id": "testimonial-section-3",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-3.json"
+      },
+      "Testimonial Section 4": {
+        "id": "testimonial-section-4",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-4.json"
+      },
+      "Testimonial Section 5": {
+        "id": "testimonial-section-5",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-5.json"
+      },
+      "Testimonial Section 6": {
+        "id": "testimonial-section-6",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-6.json"
+      },
+      "Testimonial Section 7": {
+        "id": "testimonial-section-7",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-7.json"
+      },
+      "Testimonial Section 8": {
+        "id": "testimonial-section-8",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-8.json"
+      },
+      "Testimonial Section 9": {
+        "id": "testimonial-section-9",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-9.json"
+      },
+      "Testimonial Section 10": {
+        "id": "testimonial-section-10",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-10.json"
+      },
+      "Testimonial Section 11": {
+        "id": "testimonial-section-11",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-11.json"
+      },
+      "Testimonial Section 12": {
+        "id": "testimonial-section-12",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-12.json"
+      },
+      "Testimonial Section 13": {
+        "id": "testimonial-section-13",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-13.json"
+      },
+      "Testimonial Section 14": {
+        "id": "testimonial-section-14",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-14.json"
+      },
+      "Testimonial Section 15": {
+        "id": "testimonial-section-15",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-15.json"
+      },
+      "Testimonial Section 16": {
+        "id": "testimonial-section-16",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-16.json"
+      },
+      "Testimonial Section 17": {
+        "id": "testimonial-section-17",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-17.json"
+      },
+      "Testimonial Section 18": {
+        "id": "testimonial-section-18",
+        "category": "Team Sections",
+        "defaultClass": "brixies-testimonial-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/teams/testimonial-section-18.json"
+      }
+    },
+    "Testimonial Sections": {
+      "Testimonial Section 1": {
+        "id": "testimonial-section-1",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-1.json"
+      },
+      "Testimonial Section 2": {
+        "id": "testimonial-section-2",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-2.json"
+      },
+      "Testimonial Section 3": {
+        "id": "testimonial-section-3",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-3.json"
+      },
+      "Testimonial Section 4": {
+        "id": "testimonial-section-4",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-4.json"
+      },
+      "Testimonial Section 5": {
+        "id": "testimonial-section-5",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-5.json"
+      },
+      "Testimonial Section 6": {
+        "id": "testimonial-section-6",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-6",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-6.json"
+      },
+      "Testimonial Section 7": {
+        "id": "testimonial-section-7",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-7",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-7.json"
+      },
+      "Testimonial Section 8": {
+        "id": "testimonial-section-8",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-8",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-8.json"
+      },
+      "Testimonial Section 9": {
+        "id": "testimonial-section-9",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-9",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-9.json"
+      },
+      "Testimonial Section 10": {
+        "id": "testimonial-section-10",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-10",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-10.json"
+      },
+      "Testimonial Section 11": {
+        "id": "testimonial-section-11",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-11",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-11.json"
+      },
+      "Testimonial Section 12": {
+        "id": "testimonial-section-12",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-12",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-12.json"
+      },
+      "Testimonial Section 13": {
+        "id": "testimonial-section-13",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-13",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-13.json"
+      },
+      "Testimonial Section 14": {
+        "id": "testimonial-section-14",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-14",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-14.json"
+      },
+      "Testimonial Section 15": {
+        "id": "testimonial-section-15",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-15",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-15.json"
+      },
+      "Testimonial Section 16": {
+        "id": "testimonial-section-16",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-16",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-16.json"
+      },
+      "Testimonial Section 17": {
+        "id": "testimonial-section-17",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-17",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-17.json"
+      },
+      "Testimonial Section 18": {
+        "id": "testimonial-section-18",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-18",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-18.json"
+      },
+      "Testimonial Section 19": {
+        "id": "testimonial-section-19",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-19",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-19.json"
+      },
+      "Testimonial Section 20": {
+        "id": "testimonial-section-20",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-20",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-20.json"
+      },
+      "Testimonial Section 21": {
+        "id": "testimonial-section-21",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-21",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-21.json"
+      },
+      "Testimonial Section 22": {
+        "id": "testimonial-section-22",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-22",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-22.json"
+      },
+      "Testimonial Section 23": {
+        "id": "testimonial-section-23",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-23",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-23.json"
+      },
+      "Testimonial Section 24": {
+        "id": "testimonial-section-24",
+        "category": "Testimonial Sections",
+        "defaultClass": "brixies-testimonial-section-24",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/testimonials/testimonial-section-24.json"
+      }
+    },
+    "Timeline Sections": {
+      "Timeline Section 1": {
+        "id": "timeline-section-1",
+        "category": "Timeline Sections",
+        "defaultClass": "brixies-timeline-section-1",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/timelines/timeline-section-1.json"
+      },
+      "Timeline Section 2": {
+        "id": "timeline-section-2",
+        "category": "Timeline Sections",
+        "defaultClass": "brixies-timeline-section-2",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/timelines/timeline-section-2.json"
+      },
+      "Timeline Section 3": {
+        "id": "timeline-section-3",
+        "category": "Timeline Sections",
+        "defaultClass": "brixies-timeline-section-3",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/timelines/timeline-section-3.json"
+      },
+      "Timeline Section 4": {
+        "id": "timeline-section-4",
+        "category": "Timeline Sections",
+        "defaultClass": "brixies-timeline-section-4",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/timelines/timeline-section-4.json"
+      },
+      "Timeline Section 5": {
+        "id": "timeline-section-5",
+        "category": "Timeline Sections",
+        "defaultClass": "brixies-timeline-section-5",
+        "remoteUrl": "https://raw.githubusercontent.com/ZMDx4/brixies-sections-data-cf/main/sections/timelines/timeline-section-5.json"
+      }
+    }
+  },
+  "lastUpdated": "2025-07-05T03:27:14.720Z"
+}
